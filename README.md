@@ -18,4 +18,4 @@ Libraries Used:
 - Math
 - Pandas Datareader
 
-<img src = "image/Technical_Indicators.PNG" width = "100">
+<img src = "images/Technical_Indicators.PNG" width = "1000">
