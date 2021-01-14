@@ -17,3 +17,5 @@ Libraries Used:
 - Matplotlib
 - Math
 - Pandas Datareader
+
+<img src = "image/Technical_Indicators.PNG" width = "100">
